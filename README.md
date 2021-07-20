@@ -1,0 +1,2 @@
+# Edward-John-Smith-Tribute
+Proiect de Frontend Design ce infatiseaza o pagina de tribut,un omagiu adus capitanului Edward John Smith,capitamul pachebotului RMS Titanic,care a platit cu pretul vietii pentru a salva viata a cat mai multor pasageri aflati la ananghie intr-unul din cele mai dezastruoase tragedii maritime desfasurate pe timp de pace vreodata.Pentru acest proiect am folosit exclusiv HTML5 si CSS3 (SCSS).
